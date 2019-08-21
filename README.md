@@ -2,7 +2,7 @@
 
 ## How to install:
 
-### Step 1. Add the powr_plugin.js to your page where the TinyMCE5 editor is rendered
+### Step 1. Add the powr_plugin.js where TinyMCE5 editor is rendered
 
 Option 1: Add powr_plugin.js from CDN:
 
@@ -20,14 +20,15 @@ JavaScript:
 
     tinymce.init({
       selector:'textarea',
-      plugins: 'powr', //Adds POWr Plugin JS
-      toolbar: 'powr', //Add POWr Plugin to the toolbar
-      extended_valid_elements : "script[src|async]", //Allow POWr.js script to function
+      plugins: 'powr', // Add POWr Plugin
+      toolbar: 'powr', // Set POWr Plugin position in TinyMCE toolbar
+      extended_valid_elements: "script[src|async]", // Allow POWr.js script to function
       height: '600px'
     });
 
+*Note: extended_valid_elements: "script[src|async]" is needed for POWr Plugins to render!*
 
-### Completely functional demo:
+### Demo & Boilerplate Code:
 
 [View Demo on JS Fiddle Here](https://jsfiddle.net/1k6p8hzu/)
 
