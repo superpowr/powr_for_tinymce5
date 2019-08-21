@@ -29,6 +29,8 @@ JavaScript:
 
 ### Completely functional demo:
 
+[View Demo on JS Fiddle Here](https://jsfiddle.net/1k6p8hzu/)
+
     <!DOCTYPE html>
     <html>
       <head>
@@ -54,7 +56,7 @@ JavaScript:
 
 After the POWr for TinyMCE5 is installed, you can easily create Forms, Galleries, Social Feeds, Countdown Timers, Ecommerce, and much more!
 
-1. Easily add a POWr Plugin within TinyMCE Editor by clicking the `POWr` Dropdown and selecting a plugin.
+1. Add a POWr Plugin within TinyMCE Editor by clicking the `POWr` Dropdown and selecting a plugin.
 
 2. The Plugin  will then appear within the Editor. Click `Edit` to open the POWr Editor and design & customize your Plugin.
 
