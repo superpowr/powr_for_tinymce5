@@ -61,5 +61,7 @@ After the POWr for TinyMCE5 is installed, you can easily create Forms, Galleries
 
 2. The Plugin  will then appear within the Editor. Click `Edit` to open the POWr Editor and design & customize your Plugin.
 
+![Create and Edit a POWr Plugin](https://powr.s3-us-west-1.amazonaws.com/email+gifs++/On+page+edit "Create and Edit a POWr Plugin")
+
 ## Need help?
 [Visit the POWr help center](https://www.powr.io/knowledge-base) and get answers!
