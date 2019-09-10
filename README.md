@@ -27,6 +27,7 @@ JavaScript:
     });
 
 *Note: extended_valid_elements: "script[src|async]" is needed for POWr Plugins to render!*
+
 *Note: POWr plugins require an http or https request to render (i.e. a server needs to be running and not just the local filesystem).*
 
 ### Demo & Boilerplate Code:
